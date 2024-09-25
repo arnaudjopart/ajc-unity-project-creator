@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1236b97a955c4e045af476cf1f348e04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - m_VisualTreeAsset: {fileID: 9197481963319205126, guid: c8750076be82f074eb30a820b43f457d, type: 3}
+  - m_debugLogElementTemplate: {fileID: 9197481963319205126, guid: 7094b4942c0109a41a469fa55f84c3b5, type: 3}
+  - _projectStructure: {fileID: 11400000, guid: cf8eed19a1b0fdb4dbbb42e9e9aa62f4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
