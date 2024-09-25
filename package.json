@@ -1,10 +1,9 @@
 {
   "name": "com.ajc.awesomeprojectcreator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Awesome project creator",
   "description": "This is the Awesome Project Creator",
   "unity": "2022.1",
-  "unityRelease": "0b5",
   "author": {
     "name": "Arnaud Jopart",
     "email": "unity@example.com",
